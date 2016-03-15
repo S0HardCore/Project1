@@ -1,0 +1,9 @@
+c:\users\oleg\documents\visual studio 2013\Projects\240116\240116\bin\Debug\240116.exe.config
+c:\users\oleg\documents\visual studio 2013\Projects\240116\240116\bin\Debug\240116.exe
+c:\users\oleg\documents\visual studio 2013\Projects\240116\240116\bin\Debug\240116.pdb
+c:\users\oleg\documents\visual studio 2013\Projects\240116\240116\obj\Debug\_240116.Properties.Resources.resources
+c:\users\oleg\documents\visual studio 2013\Projects\240116\240116\obj\Debug\240116.csproj.GenerateResource.Cache
+c:\users\oleg\documents\visual studio 2013\Projects\240116\240116\obj\Debug\240116.exe
+c:\users\oleg\documents\visual studio 2013\Projects\240116\240116\obj\Debug\240116.pdb
+C:\Users\Oleg\Documents\Visual Studio 2013\Projects\240116\240116\obj\Debug\240116.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Documents\Visual Studio 2013\Projects\240116\240116\obj\Debug\_240116.Form1.resources
